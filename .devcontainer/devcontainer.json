@@ -1,5 +1,7 @@
 {
   "tasks": {
-    "build": "cat docs/README.md"
+    "build": "cat docs/README.md",
+    "test": "npm run test",
+    "launch": "npm run start"
   }
 }
